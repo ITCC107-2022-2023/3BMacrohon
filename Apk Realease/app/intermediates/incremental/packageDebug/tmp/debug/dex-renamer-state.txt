@@ -1,0 +1,4 @@
+#Sat May 27 21:10:07 PST 2023
+base.0=C\:\\Users\\ACER\\AndroidStudioProjects\\jerwin\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
